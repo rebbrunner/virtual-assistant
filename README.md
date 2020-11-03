@@ -2,7 +2,7 @@
 
 author: Rebecca Brunner
 <br>
-date: 2 Novmember 2020
+date: 2 November 2020
 
 ## Description
 
